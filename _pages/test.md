@@ -1,7 +1,10 @@
 ---
 permalink: /test/
 title: "Test"
+author_profile: false
 ---
+
+
 
 Title: Navigating the Digital Wilderness: My Journey into Digital Humanities
 
